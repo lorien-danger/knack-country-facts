@@ -32744,5 +32744,1345 @@
 "vLabel": "Kittitian"
 }
 ]
+},
+"elevation": [
+{
+"v": "Q109837809",
+"elev": "262",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q18351462",
+"elev": "2339",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1971319",
+"elev": "2674",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q20568528",
+"elev": "2658",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2092378",
+"elev": "2107",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2114101",
+"elev": "2745",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2422162",
+"elev": "1410",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2520348",
+"elev": "3042",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2595789",
+"elev": "915",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2667931",
+"elev": "71",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2696459",
+"elev": "1054",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q2720697",
+"elev": "2534",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3042286",
+"elev": "2022",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3113296",
+"elev": "1020",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3183447",
+"elev": "1831",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3210770",
+"elev": "1070",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3491942",
+"elev": "1491",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3492099",
+"elev": "1911",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3546930",
+"elev": "575.3",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q4116111",
+"elev": "140",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q4681407",
+"elev": "2.4",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q98596662",
+"elev": "531",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q6922335",
+"elev": "1026",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1024",
+"elev": "2864",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q104674",
+"elev": "1344.527",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#PreferredRank"
+},
+{
+"v": "Q104674",
+"elev": "1344.53",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q107635",
+"elev": "2744",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q116675",
+"elev": "749",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q120306",
+"elev": "5959",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q123782",
+"elev": "3147.3",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q123782",
+"elev": "3143",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q130018",
+"elev": "6190",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q140084",
+"elev": "2110",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q14081",
+"elev": "6263.47",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q152294",
+"elev": "2592",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q158526",
+"elev": "756",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q159860",
+"elev": "322",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q172070",
+"elev": "5199",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q176749",
+"elev": "5.1",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q178167",
+"elev": "2228",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q190562",
+"elev": "4095",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q200935",
+"elev": "6768",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q203568",
+"elev": "4090",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q203942",
+"elev": "2468.854",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q209341",
+"elev": "2925.4",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q211529",
+"elev": "7010",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q213704",
+"elev": "4978",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q214011",
+"elev": "2135",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q214011",
+"elev": "2096.8",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#PreferredRank"
+},
+{
+"v": "Q215471",
+"elev": "2813.95",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q216035",
+"elev": "1361.4",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q217457",
+"elev": "5193.2",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q219986",
+"elev": "7570",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q221666",
+"elev": "5109",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q233836",
+"elev": "6893",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q235539",
+"elev": "4421",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q238147",
+"elev": "5636",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q239485",
+"elev": "2819",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q24457",
+"elev": "560",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q252362",
+"elev": "3820",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q257441",
+"elev": "3445",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q26544",
+"elev": "1220",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q271700",
+"elev": "7492",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q271901",
+"elev": "81",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q272593",
+"elev": "6542",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q275435",
+"elev": "4533",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q277441",
+"elev": "4509",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q30480",
+"elev": "4102",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q311330",
+"elev": "3088",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q322824",
+"elev": "694.24",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q332762",
+"elev": "7439",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3375",
+"elev": "2962.06",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q338790",
+"elev": "5775",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3388",
+"elev": "3798",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q3403",
+"elev": "4634",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q341983",
+"elev": "2656",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q38954",
+"elev": "3715",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q39231",
+"elev": "3777.24",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q39739",
+"elev": "6962",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q40758",
+"elev": "5610",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q41413",
+"elev": "7495",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q43105",
+"elev": "5642",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q43512",
+"elev": "8611",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q455963",
+"elev": "2954",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q47490",
+"elev": "1124",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q4777",
+"elev": "2810",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q47940",
+"elev": "430",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q494645",
+"elev": "1947.06",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q499108",
+"elev": "2829",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q500275",
+"elev": "3952",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q503368",
+"elev": "1038.6",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q503433",
+"elev": "4167",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q504991",
+"elev": "317.4",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q5059",
+"elev": "3724",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q513",
+"elev": "29030",
+"unit": "Q3710",
+"rank": "http://wikiba.se/ontology#DeprecatedRank"
+},
+{
+"v": "Q513",
+"elev": "8848.86",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#PreferredRank"
+},
+{
+"v": "Q513",
+"elev": "8848",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q513",
+"elev": "8850",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q513",
+"elev": "8844.43",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q518353",
+"elev": "10",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q519822",
+"elev": "4643",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q525281",
+"elev": "840",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q527548",
+"elev": "2361",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q539772",
+"elev": "1813",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q540520",
+"elev": "1208",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q578862",
+"elev": "5775",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q583",
+"elev": "4808.72",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q583",
+"elev": "4807.02",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q583",
+"elev": "4805.59",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#PreferredRank"
+},
+{
+"v": "Q583",
+"elev": "4807.81",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q583",
+"elev": "4808.06",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q583",
+"elev": "4810.02",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q60967",
+"elev": "4095",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q62467",
+"elev": "2942",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q72303",
+"elev": "5137",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q74214",
+"elev": "2730",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q80344",
+"elev": "2917.727",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q81213",
+"elev": "2654.4",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q82019",
+"elev": "8586",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q158526",
+"elev": "739",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q81213",
+"elev": "2655",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q40758",
+"elev": "5628",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q513",
+"elev": "8847.93",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1003282",
+"elev": "1850",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1032812",
+"elev": "134",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1045888",
+"elev": "4884",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1053000",
+"elev": "75",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1055837",
+"elev": "513.7",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1055875",
+"elev": "2849",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1055965",
+"elev": "842",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1056103",
+"elev": "940",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1068860",
+"elev": "3611",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1069352",
+"elev": "162",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1091113",
+"elev": "4374",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1122342",
+"elev": "311.94",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1140075",
+"elev": "2565",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1140642",
+"elev": "2637",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1140642",
+"elev": "2629",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1145743",
+"elev": "1974",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1146327",
+"elev": "2524",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1147144",
+"elev": "2876",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1147814",
+"elev": "1858",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1191219",
+"elev": "242",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1232136",
+"elev": "1544",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1236265",
+"elev": "791",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1261892",
+"elev": "3207",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1261902",
+"elev": "1854",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1261915",
+"elev": "3018",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1261935",
+"elev": "3666",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1269774",
+"elev": "1156",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1301834",
+"elev": "887",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1301834",
+"elev": "870",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#PreferredRank"
+},
+{
+"v": "Q1337951",
+"elev": "1862",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1348116",
+"elev": "2619",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1353678",
+"elev": "2436",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1394606",
+"elev": "5895",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1454300",
+"elev": "1153",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1471391",
+"elev": "2024",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1510436",
+"elev": "3002",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1513944",
+"elev": "1324",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1517182",
+"elev": "1148",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1518286",
+"elev": "3011",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1520405",
+"elev": "1030",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1539961",
+"elev": "2963",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1542459",
+"elev": "1879",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1549215",
+"elev": "1280",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1579060",
+"elev": "905",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1633034",
+"elev": "103",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1638549",
+"elev": "1447",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1649074",
+"elev": "2684",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1718336",
+"elev": "402",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1753509",
+"elev": "986",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1753730",
+"elev": "3013",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1753730",
+"elev": "3018",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1760978",
+"elev": "828",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1811114",
+"elev": "952.4",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1850604",
+"elev": "253",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1854502",
+"elev": "340",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1883683",
+"elev": "3450",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1950836",
+"elev": "1440",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q1951029",
+"elev": "2028",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q594726",
+"elev": "3475",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q617511",
+"elev": "1603.3",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q627508",
+"elev": "2061",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q632489",
+"elev": "4.6",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q635179",
+"elev": "2904",
+"unit": "Q3710",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q635179",
+"elev": "885",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q649162",
+"elev": "2460",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q665000",
+"elev": "2599",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q672936",
+"elev": "2501",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q689106",
+"elev": "170.86",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q720209",
+"elev": "163.63",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q725591",
+"elev": "4466",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q733132",
+"elev": "3482",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q737859",
+"elev": "4507",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q739484",
+"elev": "2994",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q746274",
+"elev": "63",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q746524",
+"elev": "2544",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q747618",
+"elev": "1014",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q760819",
+"elev": "2335",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q769525",
+"elev": "1945",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q771431",
+"elev": "293.84",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q783742",
+"elev": "3101",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q794684",
+"elev": "3139",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q818467",
+"elev": "4203",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#PreferredRank"
+},
+{
+"v": "Q818467",
+"elev": "4220",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q819979",
+"elev": "1952",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q822326",
+"elev": "2908",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q837723",
+"elev": "2386",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q849129",
+"elev": "1752",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q860146",
+"elev": "2267",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q870063",
+"elev": "5881",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q885798",
+"elev": "2256",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q897834",
+"elev": "2573",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q912579",
+"elev": "2764",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q921447",
+"elev": "345",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q923330",
+"elev": "658",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q928681",
+"elev": "2351",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q948298",
+"elev": "3187",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q962856",
+"elev": "2169",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q976055",
+"elev": "2419",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q725591",
+"elev": "2706",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
+},
+{
+"v": "Q822326",
+"elev": "2918",
+"unit": "Q11573",
+"rank": "http://wikiba.se/ontology#NormalRank"
 }
+]
 }

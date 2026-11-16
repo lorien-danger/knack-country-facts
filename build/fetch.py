@@ -13,6 +13,8 @@ exactly what it read). Run it again to take newer versions; the date is written 
   currencies and languages.
 - infobox.json: the infobox of each country's English Wikipedia article (CC BY-SA 4.0) and its revision id, the
   third source where the others disagree (official languages, capitals) and for checking.
+- worldbank.json: the World Bank's World Development Indicators (CC BY 4.0), each country's most recent GDP per
+  person and life expectancy, with the year.
 - government.json: the English Wikipedia article "List of countries by system of government" (CC BY-SA 4.0), its
   wikitext and revision id, for the form of government.
 """
@@ -31,6 +33,9 @@ PROPS = {'P36': 'capital', 'P38': 'currency', 'P37': 'official language', 'P47':
          'P1622': 'driving side', 'P474': 'country calling code', 'P78': 'top-level Internet domain',
          'P610': 'highest point', 'P571': 'inception', 'P122': 'basic form of government', 'P85': 'anthem',
          'P30': 'continent', 'P1549': 'demonym'}
+
+# World Bank World Development Indicators (CC BY 4.0): each country's most recent value
+WORLDBANK = {'NY.GDP.PCAP.CD': 'GDP per person (current US$)', 'SP.DYN.LE00.IN': 'life expectancy at birth (years)'}
 
 def get(url):
     for k in range(6):
@@ -89,9 +94,19 @@ if __name__ == '__main__':
         props[p] = [b for b in statements(list(qid.values()), p) if b.get('lang') in (None, '', 'en')]
         print(p, PROPS[p], len(props[p]), file=sys.stderr)
         time.sleep(2)
-    json.dump({'qid': qid, 'labels': labels, 'props': PROPS, 'statements': props}, open(OUT / 'wikidata.json', 'w'),
+    # the elevation (P2044) of each highest point, every statement with its rank and unit
+    tops = sorted({b['v'] for b in props['P610']})
+    elev = sparql('''SELECT ?v ?elev ?unit ?rank WHERE { VALUES ?v { %s } ?v p:P2044 ?s . ?s wikibase:rank ?rank ;
+      psv:P2044 [ wikibase:quantityAmount ?elev ; wikibase:quantityUnit ?unit ] }''' % ' '.join('wd:' + q for q in tops))
+    json.dump({'qid': qid, 'labels': labels, 'props': PROPS, 'statements': props, 'elevation': elev}, open(OUT / 'wikidata.json', 'w'),
               ensure_ascii=False, indent=0)
     (OUT / 'mledoze.json').write_bytes(get(MLEDOZE))
+    wb = {}
+    for ind in WORLDBANK:
+        j = json.loads(get(f'https://api.worldbank.org/v2/country/all/indicator/{ind}?format=json&mrnev=1&per_page=500'))
+        wb[ind] = [{'iso3': r['countryiso3code'], 'name': r['country']['value'], 'year': r['date'], 'value': r['value']}
+                   for r in j[1] if r['value'] is not None]
+    json.dump(wb, open(OUT / 'worldbank.json', 'w'), indent=0)
     for page, file in [('List of countries by system of government', 'government.json')]:
         j = json.loads(get('https://en.wikipedia.org/w/api.php?' + urllib.parse.urlencode({
             'action': 'parse', 'page': page, 'prop': 'wikitext|revid', 'format': 'json', 'formatversion': 2})))
