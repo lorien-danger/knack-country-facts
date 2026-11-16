@@ -11,10 +11,12 @@ exactly what it read). Run it again to take newer versions; the date is written 
   the item it points at, and for capitals and highest points that item's coordinates and elevation.
 - mledoze.json: mledoze/countries (ODbL): land borders, demonyms, calling codes, internet domains, capitals,
   currencies and languages.
+- infobox.json: the infobox of each country's English Wikipedia article (CC BY-SA 4.0) and its revision id, the
+  third source where the others disagree (official languages, capitals) and for checking.
 - government.json: the English Wikipedia article "List of countries by system of government" (CC BY-SA 4.0), its
   wikitext and revision id, for the form of government.
 """
-import json, sys, time, datetime, urllib.parse, urllib.request
+import json, re, sys, time, datetime, urllib.parse, urllib.request
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -55,6 +57,20 @@ SELECT ?c ?v ?vLabel ?rank ?start ?end ?coord ?elev ?elevUnit ?lang WHERE {{
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
 }}''')
 
+def infobox(text):
+    """the first {{Infobox ...}} template, by matching braces"""
+    m = re.search(r'\{\{\s*Infobox', text, re.I)
+    if not m: return ''
+    depth, i = 0, m.start()
+    while i < len(text):
+        if text.startswith('{{', i): depth += 1; i += 2; continue
+        if text.startswith('}}', i):
+            depth -= 1; i += 2
+            if depth == 0: return text[m.start():i]
+            continue
+        i += 1
+    return text[m.start():]
+
 if __name__ == '__main__':
     OUT.mkdir(exist_ok=True)
     countries = [{'id': r['id'], 'name': r['name']} for r in map(json.loads, get(COUNTRIES).decode().splitlines())]
@@ -81,4 +97,15 @@ if __name__ == '__main__':
             'action': 'parse', 'page': page, 'prop': 'wikitext|revid', 'format': 'json', 'formatversion': 2})))
         json.dump({'page': page, 'revid': j['parse']['revid'], 'wikitext': j['parse']['wikitext']},
                   open(OUT / file, 'w'), ensure_ascii=False)
+    # each country's English Wikipedia infobox (CC BY-SA 4.0): the third source for the facts the other two disagree on
+    titles = {b['c']: b['article'] for b in sparql('SELECT ?c ?article WHERE { VALUES ?c { %s } ?article schema:about ?c ; schema:isPartOf <https://en.wikipedia.org/> }' % ' '.join('wd:' + q for q in qid.values()))}
+    boxes = {}
+    for c, q in qid.items():
+        t = urllib.parse.unquote(titles[q].split('/wiki/')[-1]).replace('_', ' ')
+        j = json.loads(get('https://en.wikipedia.org/w/api.php?' + urllib.parse.urlencode({
+            'action': 'query', 'titles': t, 'redirects': 1, 'prop': 'revisions', 'rvprop': 'ids|content',
+            'rvslots': 'main', 'rvsection': 0, 'format': 'json', 'formatversion': 2})))
+        p = j['query']['pages'][0]; rev = p['revisions'][0]
+        boxes[c] = {'article': p['title'], 'revid': rev['revid'], 'infobox': infobox(rev['slots']['main']['content'])}
+    json.dump(boxes, open(OUT / 'infobox.json', 'w'), ensure_ascii=False, indent=0)
     (OUT / 'FETCHED').write_text(datetime.date.today().isoformat() + '\n')
