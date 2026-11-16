@@ -6,7 +6,7 @@
  "practices": [
   {"name": "Capitals of the countries", "columns": ["name", "capital", "capital place"]},
   {"name": "Countries' languages and money", "columns": ["name", "languages", "currency"]},
-  {"name": "Countries and their neighbours", "columns": ["name", "neighbours"]}
+  {"name": "Countries' calling codes and web domains", "columns": ["name", "calling code", "internet domain"]}
  ],
  "columns": [
   {"name": "name", "type": "plain", "label": "Country"},

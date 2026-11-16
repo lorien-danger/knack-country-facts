@@ -21,10 +21,11 @@
    ]
   },
   {
-   "name": "Countries and their neighbours",
+   "name": "Countries' calling codes and web domains",
    "columns": [
     "name",
-    "neighbours"
+    "calling code",
+    "internet domain"
    ]
   }
  ],
