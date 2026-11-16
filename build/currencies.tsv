@@ -1,0 +1,5 @@
+# Currencies where mledoze needs a choice. currency: ; between several.
+id	currency	why
+zw	Zimbabwe Gold;United States dollar;South African rand	the Wikipedia infobox: Zimbabwe Gold by law, the US dollar and the rand in practice (mledoze and Wikidata also list the other currencies of the 2014 multi-currency system)
+fm	United States dollar	Wikidata and Wikipedia (mledoze gives none)
+eh	Moroccan dirham	Wikidata (mledoze adds the Algerian dinar and the Mauritanian ouguiya, used in the parts Morocco does not hold)

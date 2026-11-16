@@ -1,0 +1,16 @@
+# Highest points where Wikidata needs a choice.
+id	point	metres	why
+co			Wikidata gives two peaks of the Sierra Nevada de Santa Marta, Pico Cristóbal Colón and Pico Simón Bolívar, whose heights have not been told apart by survey (Wikipedia): left out
+mv			the highest ground is an unnamed spot on Villingili (Wikidata gives Villingili and Addu City, Wikipedia "an unnamed location on Villingili, 5.1 m"): no named point, left out
+rs	Midžor	2169	Wikidata gives Velika Rudoka (2658 m), which is in Kosovo; Kosovo is its own row here, so Serbia's is Midžor, as Wikipedia's list of elevation extremes gives it
+au	Mount Kosciuszko	2228	Wikidata gives Mawson Peak (2745 m) on Heard Island, an external territory far in the Southern Ocean; Wikipedia's list and the usual answer are Mount Kosciuszko, the highest on the continent
+fi	Halti	1324	Halti's summit (1361 m, Wikidata's height) is in Norway; Finland's highest point is on its slope at 1324 m (Wikipedia's list)
+gy	Mount Roraima	2772	Roraima's summit (2810 m, Wikidata's height) is not in Guyana; Guyana's highest point on it is 2772 m (Wikipedia's list)
+ae	Jebel Jais	1892	Jebel Jais's summit is in Oman; the UAE's highest point on it is 1892 m (Wikipedia's list; Wikidata 1911)
+bd			Wikidata gives Mowdok Tiang (1054 m), Wikipedia's list Saka Haphong (1063 m): the sources disagree, left out
+gh			Wikidata gives Mount Afadja (885 m), Wikipedia's list Leklata (900 m): the sources disagree, left out
+gw			Wikidata gives Monte Torin (262 m), Wikipedia's list Dongol Rondè (266 m): the sources disagree, left out
+kw			Wikidata gives Mutla Ridge (140 m), Wikipedia's list an unnamed place in the far west (291 m): left out
+sn			Wikidata gives the Népin cliff (531 m), Wikipedia's list Felo Barkere (638 m): the sources disagree, left out
+fm			Wikidata gives Dolohmwar (791 m), Wikipedia's list Nanlaud (782 m): the sources disagree, left out
+tz	Kilimanjaro	5895	Wikidata names Kibo, the summit cone of Kilimanjaro (5895 m); Wikipedia's list and the usual name are Kilimanjaro

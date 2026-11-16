@@ -1,0 +1,69 @@
+# Official languages where Wikidata and mledoze disagree, settled with the country's English Wikipedia infobox
+# (official_languages, which cites the constitution or law): what two of the three give, or the infobox where it is
+# clear. Sign languages are left out everywhere. languages: ; between several.
+id	languages	why
+af	Dari;Pashto	Wikipedia and mledoze give Dari and Pashto (the constitution's two official languages); the others in Wikidata and mledoze are official only where most people speak them
+dz	Arabic;Tamazight	Wikidata and Wikipedia: Arabic and Tamazight (Berber), official since 2016
+ag	English;Spanish	Wikidata and Wikipedia
+ar	Spanish	Wikidata; Argentina names no official language in law and Spanish is official in practice; Guaraní (mledoze) is official only in Corrientes province
+at	German	Wikidata (mledoze's "Austro-Bavarian German" is a dialect; the constitution names German)
+az	Azerbaijani	Wikidata and Wikipedia
+bd	Bengali	all three (Wikidata calls it Bangla)
+bb	English	mledoze and Wikipedia
+bz	English	Wikidata and Wikipedia
+bo	Spanish;Quechua;Aymara;Guaraní	all three name these four; the constitution also names 33 other indigenous languages, left out
+bw	English	Wikidata and Wikipedia (Tswana is the national language)
+bn	Malay	mledoze; Wikipedia's infobox gives Malay as the official language
+bf		the 2024 transitional charter made "all national languages" official without naming them, and French a working language: the three sources disagree and none is given
+bi	Kirundi;French;English	Wikidata and Wikipedia
+cv	Portuguese	mledoze and Wikipedia
+cn	Chinese	all three (Standard Chinese, Putonghua)
+cy	Greek;Turkish	all three
+cz	Czech	Wikidata and Wikipedia
+cd	French	Wikidata and Wikipedia (the four others in mledoze are national languages)
+ec	Spanish	mledoze and Wikipedia (Kichwa and Shuar are official for intercultural relations)
+gd	English	mledoze and Wikipedia
+gn	French	Wikidata and mledoze
+gw	Portuguese	Wikidata and Wikipedia
+in	Hindi;English	Wikidata and Wikipedia (the Union's languages; 22 more are scheduled languages of the states)
+ir	Persian	all three
+iq	Arabic;Kurdish	Wikidata and Wikipedia
+il	Hebrew	Wikidata; since 2018 Arabic has a "special status" instead
+kg	Kyrgyz;Russian	mledoze and Wikipedia
+lb	Arabic	Wikidata and Wikipedia
+ls	Sotho;English	all three
+mw	English;Chewa	Wikidata and mledoze
+my	Malay	Wikidata; Wikipedia's infobox gives Malay as the official language
+ml	Bambara;Bobo;Bozo;Dogon;Fula;Hassaniya Arabic;Kassonke;Maninka;Minyanka;Senufo;Songhay;Soninke;Tamasheq	Wikidata; the 2023 constitution made Mali's thirteen national languages official in place of French (Wikipedia agrees but does not list them)
+mr	Arabic	mledoze and Wikipedia
+mu	English;French	Wikidata and Wikipedia
+mx	Spanish	mledoze; Mexico names no official language in law (Wikidata adds two of the 68 recognised indigenous languages)
+md	Romanian	Wikidata; a 2023 law calls the state language Romanian (mledoze: Moldavian)
+ma	Arabic;Tamazight	Wikidata and Wikipedia
+na	English	Wikidata and Wikipedia
+nr	Nauruan;English	all three
+ne	Hausa	Wikidata and Wikipedia; the 2025 charter made Hausa the national language and French a working language
+kp	Korean	all three
+mk	Macedonian	mledoze and Wikipedia (Albanian is co-official under a 2019 law; Wikidata includes it)
+no	Norwegian;Sámi	all three
+pw	Palauan;English	mledoze and Wikipedia
+pg	English;Tok Pisin;Hiri Motu	Wikidata and mledoze
+py	Spanish;Guaraní	all three
+ph	Filipino;English	mledoze and Wikipedia
+cg	French	Wikidata and Wikipedia
+rw	Kinyarwanda;English;French;Swahili	Wikidata and Wikipedia
+sn	French	mledoze and Wikipedia
+sl	English	mledoze and Wikipedia
+sg	English;Malay;Chinese;Tamil	all three
+za	Afrikaans;English;Northern Sotho;Southern Ndebele;Sotho;Swazi;Tsonga;Tswana;Venda;Xhosa;Zulu	all three (South African Sign Language, the twelfth since 2023, left out with the other sign languages)
+kr	Korean	all three
+ch	German;French;Italian;Romansh	Wikidata and Wikipedia
+tw	Chinese	mledoze and Wikipedia (Taiwan has also named twenty national languages; Wikidata lists them)
+tj	Tajik;Russian	mledoze and Wikipedia
+tm	Turkmen	Wikidata and Wikipedia
+us	English	mledoze and Wikipedia: an executive order of March 2025 made English the official language
+uy	Spanish	mledoze and Wikipedia
+uz	Uzbek	Wikidata and Wikipedia
+ve	Spanish	all three
+eh	Arabic	Wikidata
+zw	Chewa;Chibarwe;English;Kalanga;Khoisan;Nambya;Ndau;Northern Ndebele;Shona;Sotho;Tonga;Tsonga;Tswana;Venda;Xhosa	the 2013 constitution's sixteen, as Wikipedia lists them, without sign language (Nambya is missing from mledoze)
