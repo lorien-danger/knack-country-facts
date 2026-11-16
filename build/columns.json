@@ -3,70 +3,27 @@
  "item": "country",
  "items": "countries",
  "title": "name",
+ "practices": [
+  {"name": "Capitals of the countries", "columns": ["name", "capital", "capital place"]},
+  {"name": "Countries' languages and money", "columns": ["name", "languages", "currency"]},
+  {"name": "Countries and their neighbours", "columns": ["name", "neighbours"]}
+ ],
  "columns": [
-  {
-   "name": "name",
-   "type": "plain"
-  },
-  {
-   "name": "capital",
-   "type": "plain"
-  },
-  {
-   "name": "capital place",
-   "type": "plain"
-  },
-  {
-   "name": "languages",
-   "type": "plain"
-  },
-  {
-   "name": "currency",
-   "type": "plain"
-  },
-  {
-   "name": "neighbours",
-   "type": "plain"
-  },
-  {
-   "name": "landlocked",
-   "type": "plain"
-  },
-  {
-   "name": "drives on",
-   "type": "plain"
-  },
-  {
-   "name": "calling code",
-   "type": "plain"
-  },
-  {
-   "name": "internet domain",
-   "type": "plain"
-  },
-  {
-   "name": "highest point",
-   "type": "plain"
-  },
-  {
-   "name": "highest point (m)",
-   "type": "plain"
-  },
-  {
-   "name": "government",
-   "type": "plain"
-  },
-  {
-   "name": "demonym",
-   "type": "plain"
-  },
-  {
-   "name": "GDP per person",
-   "type": "plain"
-  },
-  {
-   "name": "life expectancy",
-   "type": "plain"
-  }
+  {"name": "name", "type": "plain", "label": "Country"},
+  {"name": "capital", "type": "parts", "label": "Capital"},
+  {"name": "capital place", "type": "sphere", "label": "Where the capital is"},
+  {"name": "languages", "type": "parts", "label": "Official languages"},
+  {"name": "currency", "type": "parts", "label": "Currency"},
+  {"name": "neighbours", "type": "parts", "label": "Land neighbours"},
+  {"name": "landlocked", "type": "plain", "label": "Coast"},
+  {"name": "drives on", "type": "plain", "label": "Drives on the"},
+  {"name": "calling code", "type": "tree", "label": "Calling code"},
+  {"name": "internet domain", "type": "plain", "label": "Internet domain", "font": "mono"},
+  {"name": "highest point", "type": "plain", "label": "Highest point"},
+  {"name": "highest point (m)", "type": "number", "scale": "log", "label": "Height of the highest point", "unit": "m", "digits": 4},
+  {"name": "government", "type": "tree", "label": "Government"},
+  {"name": "demonym", "type": "plain", "label": "People are called"},
+  {"name": "GDP per person", "type": "number", "scale": "log", "unit": "US$", "digits": 2},
+  {"name": "life expectancy", "type": "number", "unit": "years", "digits": 2, "label": "Life expectancy"}
  ]
 }
