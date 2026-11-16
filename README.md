@@ -91,7 +91,7 @@ Norway; the official languages of 65 countries were settled by what two of the t
 
 What agrees across sources: capitals for all but spelling (Reykjavík, Ulaanbaatar…) and the countries with several;
 calling codes and internet domains for all; driving side for every country whose infobox says; land borders all
-appear in Wikidata's P47. Of the 174 highest points that are in Wikipedia's list and were not settled by hand, 144
+appear in Wikidata's P47. Of the 174 highest points not settled by hand whose row in Wikipedia's list the check could read (it misses 8 rows written differently), 144
 have the same point and height (within 1%); the other 30 are listed in `checks.txt`: most are other names for the
 same mountain (Kanchenjunga, Paektu-san), the rest heights that differ by a few metres to 2% between surveys (Mount
 Cameroon 4095 or 4040 m, Khüiten Peak 4374 or 4356 m).
