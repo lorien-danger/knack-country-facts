@@ -1,0 +1,232 @@
+Where the sources disagree, and what was used (written by build.py)
+
+## name: 198 of 198 countries have it
+
+## capital: 197 of 198 countries have it
+Antigua and Barbuda: Wikidata ["St. John's"], mledoze ["Saint John's"]; Wikidata used
+Bolivia: La Paz;Sucre — Sucre is the constitutional capital and La Paz the seat of government (Wikidata gives both; Wikipedia infobox: "Sucre (constitutional and judicial), La Paz (executive and legislative)")
+Eswatini: Mbabane;Lobamba — Mbabane is the administrative capital and Lobamba the royal and legislative one (Wikidata gives both; Wikipedia agrees)
+Iceland: Wikidata ['Reykjavík'], mledoze ['Reykjavik']; Wikidata used
+Mongolia: Wikidata ['Ulaanbaatar'], mledoze ['Ulan Bator']; Wikidata used
+Palestine: Ramallah;East Jerusalem — East Jerusalem is the proclaimed capital, Ramallah where the government sits (Wikidata gives both; Wikipedia agrees)
+San Marino: Wikidata ['San Marino'], mledoze ['City of San Marino']; Wikidata used
+South Africa: Pretoria;Cape Town;Bloemfontein — three capitals, executive (Pretoria), legislative (Cape Town) and judicial (Bloemfontein): Wikidata, mledoze and Wikipedia agree
+Sri Lanka: Sri Jayawardenepura Kotte;Colombo — Sri Jayawardenepura Kotte is the legislative capital and Colombo the executive and judicial one (Wikidata gives both; Wikipedia agrees). The two are next to each other
+Tonga: Wikidata ['Nukuʻalofa'], mledoze ["Nuku'alofa"]; Wikidata used
+United States: Wikidata ['Washington, D.C.'], mledoze ['Washington D.C.']; Wikidata used
+Western Sahara: (none) — Western Sahara is disputed (Morocco administers most of it; the Sahrawi Republic claims it): Wikidata gives its item no capital, and none is given here
+Yemen: Sanaa;Aden — Sanaa is the capital by the constitution, held by the Houthis since 2014; Aden is the internationally recognised government's temporary capital (Wikidata gives both; Wikipedia agrees)
+
+## capital place: 197 of 198 countries have it
+Bolivia: the point is La Paz's, of ['La Paz', 'Sucre']
+Eswatini: the point is Mbabane's, of ['Mbabane', 'Lobamba']
+Palestine: the point is Ramallah's, of ['Ramallah', 'East Jerusalem']
+South Africa: the point is Pretoria's, of ['Pretoria', 'Cape Town', 'Bloemfontein']
+Sri Lanka: the point is Sri Jayawardenepura Kotte's, of ['Sri Jayawardenepura Kotte', 'Colombo']
+Yemen: the point is Sanaa's, of ['Sanaa', 'Aden']
+
+## languages: 197 of 198 countries have it
+Afghanistan: Wikidata ['Arabic', 'Balochi', 'Dari', 'Nuristani', 'Pamir', 'Pashayi', 'Pashto', 'Turkmen', 'Uzbek'], mledoze ['Dari', 'Pashto', 'Turkmen']: ['Dari', 'Pashto'] — Wikipedia and mledoze give Dari and Pashto (the constitution's two official languages); the others in Wikidata and mledoze are official only where most people speak them
+Algeria: Wikidata ['Arabic', 'Standard Algerian Berber'], mledoze ['Arabic']: ['Arabic', 'Tamazight'] — Wikidata and Wikipedia: Arabic and Tamazight (Berber), official since 2016
+Antigua and Barbuda: Wikidata ['English', 'Spanish'], mledoze ['English']: ['English', 'Spanish'] — Wikidata and Wikipedia
+Argentina: Wikidata ['Spanish'], mledoze ['Guaraní', 'Spanish']: ['Spanish'] — Wikidata; Argentina names no official language in law and Spanish is official in practice; Guaraní (mledoze) is official only in Corrientes province
+Austria: Wikidata ['German'], mledoze ['German']: ['German'] — Wikidata (mledoze's "Austro-Bavarian German" is a dialect; the constitution names German)
+Azerbaijan: Wikidata ['Azerbaijani'], mledoze ['Azerbaijani', 'Russian']: ['Azerbaijani'] — Wikidata and Wikipedia
+Bangladesh: Wikidata ['Bengali'], mledoze ['Bengali']: ['Bengali'] — all three (Wikidata calls it Bangla)
+Barbados: Wikidata ['Bajan Creole', 'English'], mledoze ['English']: ['English'] — mledoze and Wikipedia
+Belize: Wikidata ['English'], mledoze ['Belizean Creole', 'English', 'Spanish']: ['English'] — Wikidata and Wikipedia
+Bolivia: Wikidata ['Aymara', 'Guaraní', 'Quechua', 'Spanish'], mledoze ['Aymara', 'Guaraní', 'Quechua', 'Spanish']: ['Spanish', 'Quechua', 'Aymara', 'Guaraní'] — all three name these four; the constitution also names 33 other indigenous languages, left out
+Botswana: Wikidata ['English'], mledoze ['English', 'Tswana']: ['English'] — Wikidata and Wikipedia (Tswana is the national language)
+Brunei: Wikidata ['British English', 'Malay'], mledoze ['Malay']: ['Malay'] — mledoze; Wikipedia's infobox gives Malay as the official language
+Burkina Faso: Wikidata ['Bissa', 'Dioula', 'Mooré'], mledoze ['French']: (none) — the 2024 transitional charter made "all national languages" official without naming them, and French a working language: the three sources disagree and none is given
+Burundi: Wikidata ['English', 'French', 'Kirundi'], mledoze ['French', 'Kirundi']: ['Kirundi', 'French', 'English'] — Wikidata and Wikipedia
+Cabo Verde: Wikidata ['Cape Verdean Creole', 'Portuguese'], mledoze ['Portuguese']: ['Portuguese'] — mledoze and Wikipedia
+China: Wikidata ['Chinese'], mledoze ['Chinese']: ['Chinese'] — all three (Standard Chinese, Putonghua)
+Cyprus: Wikidata ['Greek', 'Turkish'], mledoze ['Greek', 'Turkish']: ['Greek', 'Turkish'] — all three
+Czechia: Wikidata ['Czech'], mledoze ['Czech', 'Slovak']: ['Czech'] — Wikidata and Wikipedia
+Democratic Republic of the Congo: Wikidata ['French'], mledoze ['French', 'Kikongo', 'Lingala', 'Swahili', 'Tshiluba']: ['French'] — Wikidata and Wikipedia (the four others in mledoze are national languages)
+Ecuador: Wikidata ['Northern Quichua', 'Shuar', 'Spanish'], mledoze ['Spanish']: ['Spanish'] — mledoze and Wikipedia (Kichwa and Shuar are official for intercultural relations)
+Grenada: Wikidata ['English', 'Grenadian Creole English'], mledoze ['English']: ['English'] — mledoze and Wikipedia
+Guinea: Wikidata ['French', 'languages of Guinea'], mledoze ['French']: ['French'] — Wikidata and mledoze
+Guinea-Bissau: Wikidata ['Portuguese'], mledoze ['Portuguese', 'Upper Guinea Creole']: ['Portuguese'] — Wikidata and Wikipedia
+India: Wikidata ['English', 'Hindi'], mledoze ['English', 'Hindi', 'Tamil']: ['Hindi', 'English'] — Wikidata and Wikipedia (the Union's languages; 22 more are scheduled languages of the states)
+Iran: Wikidata ['Persian'], mledoze ['Persian']: ['Persian'] — all three
+Iraq: Wikidata ['Arabic', 'Kurdish'], mledoze ['Arabic', 'Aramaic', 'Sorani']: ['Arabic', 'Kurdish'] — Wikidata and Wikipedia
+Israel: Wikidata ['Hebrew'], mledoze ['Arabic', 'Hebrew']: ['Hebrew'] — Wikidata; since 2018 Arabic has a "special status" instead
+Kyrgyzstan: Wikidata ['Kyrgyz'], mledoze ['Kyrgyz', 'Russian']: ['Kyrgyz', 'Russian'] — mledoze and Wikipedia
+Lebanon: Wikidata ['Arabic'], mledoze ['Arabic', 'French']: ['Arabic'] — Wikidata and Wikipedia
+Lesotho: Wikidata ['English', 'Sotho'], mledoze ['English', 'Sotho']: ['Sotho', 'English'] — all three
+Malawi: Wikidata ['Chewa', 'English', 'Tumbuka'], mledoze ['Chewa', 'English']: ['English', 'Chewa'] — Wikidata and mledoze
+Malaysia: Wikidata ['Malay'], mledoze ['English', 'Malay']: ['Malay'] — Wikidata; Wikipedia's infobox gives Malay as the official language
+Mali: Wikidata ['Bambara', 'Bobo', 'Bozo', 'Dogon', 'Fula', 'Hassaniya Arabic', 'Kassonke', 'Maninka', 'Minyanka', 'Senufo', 'Songhay', 'Soninke', 'Tamasheq'], mledoze ['French']: ['Bambara', 'Bobo', 'Bozo', 'Dogon', 'Fula', 'Hassaniya Arabic', 'Kassonke', 'Maninka', 'Minyanka', 'Senufo', 'Songhay', 'Soninke', 'Tamasheq'] — Wikidata; the 2023 constitution made Mali's thirteen national languages official in place of French (Wikipedia agrees but does not list them)
+Mauritania: Wikidata ['Arabic', 'French'], mledoze ['Arabic']: ['Arabic'] — mledoze and Wikipedia
+Mauritius: Wikidata ['English', 'French'], mledoze ['English', 'French', 'Mauritian Creole']: ['English', 'French'] — Wikidata and Wikipedia
+Mexico: Wikidata ['Nahuatl', 'Spanish', 'Yucatec Maya'], mledoze ['Spanish']: ['Spanish'] — mledoze; Mexico names no official language in law (Wikidata adds two of the 68 recognised indigenous languages)
+Moldova: Wikidata ['Romanian'], mledoze ['Romanian']: ['Romanian'] — Wikidata; a 2023 law calls the state language Romanian (mledoze: Moldavian)
+Morocco: Wikidata ['Arabic', 'Standard Moroccan Tamazight'], mledoze ['Arabic', 'Berber']: ['Arabic', 'Tamazight'] — Wikidata and Wikipedia
+Namibia: Wikidata ['English'], mledoze ['Afrikaans', 'English', 'German', 'Herero', 'Khoekhoe', 'Kwangali', 'Lozi', 'Ndonga', 'Tswana']: ['English'] — Wikidata and Wikipedia
+Nauru: Wikidata ['English', 'Nauruan'], mledoze ['English', 'Nauruan']: ['Nauruan', 'English'] — all three
+Niger: Wikidata ['Hausa'], mledoze ['French']: ['Hausa'] — Wikidata and Wikipedia; the 2025 charter made Hausa the national language and French a working language
+North Korea: Wikidata ['Korean', 'North Korean standard language'], mledoze ['Korean']: ['Korean'] — all three
+North Macedonia: Wikidata ['Albanian', 'Macedonian'], mledoze ['Macedonian']: ['Macedonian'] — mledoze and Wikipedia (Albanian is co-official under a 2019 law; Wikidata includes it)
+Norway: Wikidata ['Norwegian', 'Sámi'], mledoze ['Norwegian', 'Sámi']: ['Norwegian', 'Sámi'] — all three
+Palau: Wikidata ['English', 'Japanese', 'Palauan'], mledoze ['English', 'Palauan']: ['Palauan', 'English'] — mledoze and Wikipedia
+Papua New Guinea: Wikidata ['English', 'Hiri Motu', 'Tok Pisin'], mledoze ['English', 'Hiri Motu', 'Tok Pisin']: ['English', 'Tok Pisin', 'Hiri Motu'] — Wikidata and mledoze
+Paraguay: Wikidata ['Guaraní', 'Spanish'], mledoze ['Guaraní', 'Spanish']: ['Spanish', 'Guaraní'] — all three
+Philippines: Wikidata ['English', 'Filipino', 'Taglish'], mledoze ['English', 'Filipino']: ['Filipino', 'English'] — mledoze and Wikipedia
+Republic of the Congo: Wikidata ['French'], mledoze ['French', 'Kikongo', 'Lingala']: ['French'] — Wikidata and Wikipedia
+Rwanda: Wikidata ['English', 'French', 'Kinyarwanda', 'Swahili'], mledoze ['English', 'French', 'Kinyarwanda']: ['Kinyarwanda', 'English', 'French', 'Swahili'] — Wikidata and Wikipedia
+Senegal: Wikidata ['Badyara', 'Balanta', 'French', 'Wolof'], mledoze ['French']: ['French'] — mledoze and Wikipedia
+Sierra Leone: Wikidata ['English', 'Krio'], mledoze ['English']: ['English'] — mledoze and Wikipedia
+Singapore: Wikidata ['Chinese', 'English', 'Malay', 'Tamil'], mledoze ['Chinese', 'English', 'Malay', 'Tamil']: ['English', 'Malay', 'Chinese', 'Tamil'] — all three
+South Africa: Wikidata ['Afrikaans', 'English', 'Northern Sotho', 'Sotho', 'Southern Ndebele', 'Swazi', 'Tsonga', 'Tswana', 'Venda', 'Xhosa', 'Zulu'], mledoze ['Afrikaans', 'English', 'Northern Sotho', 'Sotho', 'Southern Ndebele', 'Swazi', 'Tsonga', 'Tswana', 'Venda', 'Xhosa', 'Zulu']: ['Afrikaans', 'English', 'Northern Sotho', 'Southern Ndebele', 'Sotho', 'Swazi', 'Tsonga', 'Tswana', 'Venda', 'Xhosa', 'Zulu'] — all three (South African Sign Language, the twelfth since 2023, left out with the other sign languages)
+South Korea: Wikidata ['Korean'], mledoze ['Korean']: ['Korean'] — all three
+Switzerland: Wikidata ['French', 'German', 'Italian', 'Romansh'], mledoze ['French', 'German', 'Italian', 'Romansh']: ['German', 'French', 'Italian', 'Romansh'] — Wikidata and Wikipedia
+Taiwan: Wikidata ['Amis', 'Atayal', 'Bunun', 'Kanakanavu', 'Kavalan', 'Kinmen dialect', 'Matsu dialect', 'Paiwan', 'Puyuma', 'Rukai', 'Saaroa', 'Saisiyat', 'Sakizaya', 'Seediq', 'Standard Taiwanese Mandarin', 'Taiwanese Hakka', 'Taiwanese Hokkien', 'Truku', 'Tsou', 'Wuqiu dialect', 'Yami'], mledoze ['Chinese']: ['Chinese'] — mledoze and Wikipedia (Taiwan has also named twenty national languages; Wikidata lists them)
+Tajikistan: Wikidata ['Tajik'], mledoze ['Russian', 'Tajik']: ['Tajik', 'Russian'] — mledoze and Wikipedia
+Turkmenistan: Wikidata ['Turkmen'], mledoze ['Russian', 'Turkmen']: ['Turkmen'] — Wikidata and Wikipedia
+United States: Wikidata ['Carolinian', 'Chamorro', 'Hawaiian', 'Samoan', 'Spanish'], mledoze ['English']: ['English'] — mledoze and Wikipedia: an executive order of March 2025 made English the official language
+Uruguay: Wikidata [], mledoze ['Spanish']: ['Spanish'] — mledoze and Wikipedia
+Uzbekistan: Wikidata ['Uzbek'], mledoze ['Russian', 'Uzbek']: ['Uzbek'] — Wikidata and Wikipedia
+Venezuela: Wikidata ['Spanish'], mledoze ['Spanish']: ['Spanish'] — all three
+Western Sahara: Wikidata ['Arabic'], mledoze ['Berber', 'Hassaniya', 'Spanish']: ['Arabic'] — Wikidata
+Zimbabwe: Wikidata ['Barwe', 'Chewa', 'English', 'Kalanga', 'Khoisan', 'Nambya', 'Ndau', 'Northern Ndebele', 'Shona', 'Sotho', 'Tonga', 'Tsonga', 'Tswana', 'Venda', 'Xhosa'], mledoze ['Chewa', 'Chibarwe', 'English', 'Kalanga', 'Khoisan', 'Ndau', 'Northern Ndebele', 'Shona', 'Sotho', 'Tonga', 'Tsonga', 'Tswana', 'Venda', 'Xhosa']: ['Chewa', 'Chibarwe', 'English', 'Kalanga', 'Khoisan', 'Nambya', 'Ndau', 'Northern Ndebele', 'Shona', 'Sotho', 'Tonga', 'Tsonga', 'Tswana', 'Venda', 'Xhosa'] — the 2013 constitution's sixteen, as Wikipedia lists them, without sign language (Nambya is missing from mledoze)
+
+## currency: 198 of 198 countries have it
+Afghanistan: Wikidata ['afghani'], mledoze ['Afghan afghani']; ['Afghan afghani'] used
+Angola: Wikidata ['kwanza'], mledoze ['Angolan kwanza']; ['Angolan kwanza'] used
+Argentina: Wikidata ['Argentine convertible peso'], mledoze ['Argentine peso']; ['Argentine peso'] used
+Bhutan: Wikidata ['ngultrum'], mledoze ['Bhutanese ngultrum', 'Indian rupee']; ['Bhutanese ngultrum'] used
+Bolivia: Wikidata ['boliviano'], mledoze ['Bolivian boliviano']; ['Bolivian boliviano'] used
+Bosnia and Herzegovina: Wikidata ['convertible mark'], mledoze ['Bosnia and Herzegovina convertible mark']; ['Bosnia and Herzegovina convertible mark'] used
+Cambodia: Wikidata ['riel'], mledoze ['Cambodian riel', 'United States dollar']; ['Cambodian riel', 'United States dollar'] used
+China: Wikidata ['renminbi'], mledoze ['Chinese yuan']; ['Chinese yuan'] used
+East Timor: Wikidata ['East Timor centavo coins', 'United States dollar'], mledoze ['United States dollar']; ['United States dollar'] used
+El Salvador: Wikidata ['Bitcoin', 'United States dollar'], mledoze ['United States dollar']; ['United States dollar'] used
+Eritrea: Wikidata ['nakfa'], mledoze ['Eritrean nakfa']; ['Eritrean nakfa'] used
+Eswatini: Wikidata ['lilangeni'], mledoze ['Swazi lilangeni', 'South African rand']; ['Swazi lilangeni', 'South African rand'] used
+Ethiopia: Wikidata ['bir'], mledoze ['Ethiopian birr']; ['Ethiopian birr'] used
+France: Wikidata ['CFP Franc', 'euro'], mledoze ['Euro']; ['euro'] used
+Ghana: Wikidata ['Ghana cedi'], mledoze ['Ghanaian cedi']; ['Ghanaian cedi'] used
+Guatemala: Wikidata ['quetzal'], mledoze ['Guatemalan quetzal']; ['Guatemalan quetzal'] used
+Haiti: Wikidata ['gourde'], mledoze ['Haitian gourde']; ['Haitian gourde'] used
+Hungary: Wikidata ['forint'], mledoze ['Hungarian forint']; ['Hungarian forint'] used
+Indonesia: Wikidata ['rupiah'], mledoze ['Indonesian rupiah']; ['Indonesian rupiah'] used
+Israel: Wikidata ['new shekel'], mledoze ['Israeli new shekel']; ['Israeli new shekel'] used
+Japan: Wikidata ['yen'], mledoze ['Japanese yen']; ['Japanese yen'] used
+Kyrgyzstan: Wikidata ['Kyrgyz som'], mledoze ['Kyrgyzstani som']; ['Kyrgyzstani som'] used
+Lesotho: Wikidata ['rand', 'loti'], mledoze ['Lesotho loti', 'South African rand']; ['Lesotho loti', 'South African rand'] used
+Madagascar: Wikidata ['ariary'], mledoze ['Malagasy ariary']; ['Malagasy ariary'] used
+Marshall Islands: Wikidata ['SOV', 'United States dollar'], mledoze ['United States dollar']; ['United States dollar'] used
+Mexico: Wikidata ['peso'], mledoze ['Mexican peso']; ['Mexican peso'] used
+Micronesia: Wikidata ['United States dollar'], mledoze []: ['United States dollar'] — Wikidata and Wikipedia (mledoze gives none)
+Myanmar: Wikidata ['kyat'], mledoze ['Burmese kyat']; ['Burmese kyat'] used
+Namibia: Wikidata ['rand', 'Namibian dollar'], mledoze ['Namibian dollar', 'South African rand']; ['Namibian dollar', 'South African rand'] used
+Nigeria: Wikidata ['naira'], mledoze ['Nigerian naira']; ['Nigerian naira'] used
+Palestine: Wikidata ['new shekel'], mledoze ['Egyptian pound', 'Israeli new shekel', 'Jordanian dinar']; ['Egyptian pound', 'Israeli new shekel', 'Jordanian dinar'] used
+Papua New Guinea: Wikidata ['kina'], mledoze ['Papua New Guinean kina']; ['Papua New Guinean kina'] used
+Peru: Wikidata ['Nuevo sol'], mledoze ['Peruvian sol']; ['Peruvian sol'] used
+Poland: Wikidata ['złoty'], mledoze ['Polish złoty']; ['Polish złoty'] used
+Sierra Leone: Wikidata ['leone'], mledoze ['Sierra Leonean leone']; ['Sierra Leonean leone'] used
+South Africa: Wikidata ['rand'], mledoze ['South African rand']; ['South African rand'] used
+South Korea: Wikidata ['won'], mledoze ['South Korean won']; ['South Korean won'] used
+Thailand: Wikidata ['baht'], mledoze ['Thai baht']; ['Thai baht'] used
+Turkmenistan: Wikidata ['Turkmenistan new manat'], mledoze ['Turkmenistan manat']; ['Turkmenistan manat'] used
+Ukraine: Wikidata ['hryvnia'], mledoze ['Ukrainian hryvnia']; ['Ukrainian hryvnia'] used
+United Kingdom: Wikidata ['pound sterling'], mledoze ['British pound']; ['British pound'] used
+Uzbekistan: Wikidata ['Uzbek som'], mledoze ['Uzbekistani soʻm']; ['Uzbekistani soʻm'] used
+Vanuatu: Wikidata ['Vanuatu vatus'], mledoze ['Vanuatu vatu']; ['Vanuatu vatu'] used
+Venezuela: Wikidata ['sovereign bolivar'], mledoze ['Venezuelan bolívar soberano']; ['Venezuelan bolívar soberano'] used
+Western Sahara: Wikidata ['Moroccan dirham', 'الدراهم المغربي'], mledoze ['Algerian dinar', 'Moroccan dirham', 'Mauritanian ouguiya']: ['Moroccan dirham'] — Wikidata (mledoze adds the Algerian dinar and the Mauritanian ouguiya, used in the parts Morocco does not hold)
+Zimbabwe: Wikidata ['Indian rupee', 'rand', 'Zimbabwean dollar', 'Australian dollar', 'Zimbabwe ZiG', 'euro', 'United States dollar', 'yen', 'pound sterling', 'renminbi'], mledoze ['Botswana pula', 'Chinese yuan', 'Euro', 'British pound', 'Indian rupee', 'Japanese yen', 'United States dollar', 'South African rand', 'Zimbabwe Gold']: ['Zimbabwe Gold', 'United States dollar', 'South African rand'] — the Wikipedia infobox: Zimbabwe Gold by law, the US dollar and the rand in practice (mledoze and Wikidata also list the other currencies of the 2014 multi-currency system)
+
+## neighbours: 159 of 198 countries have it
+Brazil: border with GUF left out (not one of the 198)
+China: border with HKG left out (not one of the 198)
+China: border with MAC left out (not one of the 198)
+Spain: border with GIB left out (not one of the 198)
+Suriname: border with GUF left out (not one of the 198)
+
+## landlocked: 198 of 198 countries have it
+
+## drives on: 198 of 198 countries have it
+
+## calling code: 198 of 198 countries have it
+Afghanistan: +93; Wikipedia infobox ''
+Antigua and Barbuda: +1268; Wikipedia infobox '+1'
+Bahamas: +1242; Wikipedia infobox '+1'
+Barbados: +1246; Wikipedia infobox '+1'
+Dominica: +1767; Wikipedia infobox '+1'
+Dominican Republic: Wikidata ['+1809', '+1829', '+1849'], mledoze ['+1809', '+1829', '+1849']: +1809 — the Dominican Republic has three area codes, 809, 829 and 849 (all three sources); 809 is its first, and the others were added over it
+Dominican Republic: +1809; Wikipedia infobox '+1'
+Grenada: +1473; Wikipedia infobox '+1'
+Jamaica: +1876; Wikipedia infobox '+1'
+Kazakhstan: Wikidata ['+7'], mledoze ['+76', '+77']; Wikidata used
+Saint Kitts and Nevis: +1869; Wikipedia infobox '+1'
+Saint Lucia: +1758; Wikipedia infobox '+1'
+Saint Vincent and the Grenadines: +1784; Wikipedia infobox '+1'
+Taiwan: +886; Wikipedia infobox ''
+Trinidad and Tobago: +1868; Wikipedia infobox '+1'
+Western Sahara: Wikidata ['+212'], mledoze ['+2125288', '+2125289']; Wikidata used
+Western Sahara: +212; Wikipedia infobox ''
+
+## internet domain: 198 of 198 countries have it
+Kosovo: Wikidata [], mledoze ['.xk']; mledoze used
+Western Sahara: Wikidata [], mledoze ['.eh']; mledoze used
+
+## highest point: 194 of 198 countries have it
+Algeria: Mount Tahat has elevations [2908.0, 2918.0]; the highest used
+Azerbaijan: Mount Bazardüzü has elevations [2706.0, 4466.0]; the highest used
+Colombia: Wikidata ['Pico Simón Bolívar', 'Pico Cristóbal Colón']: (none)  — Wikidata gives two peaks of the Sierra Nevada de Santa Marta, Pico Cristóbal Colón and Pico Simón Bolívar, whose heights have not been told apart by survey (Wikipedia): left out
+Egypt: Mount Catherine has elevations [2629.0, 2637.0]; the highest used
+Eritrea: Emba Soira has elevations [3013.0, 3018.0]; the highest used
+Gambia: Wikidata []; left out
+Iran: Damavand has elevations [5610.0, 5628.0]; the highest used
+Maldives: Wikidata ['Addu City', 'Villingili']: (none)  — the highest ground is an unnamed spot on Villingili (Wikidata gives Villingili and Addu City, Wikipedia "an unnamed location on Villingili, 5.1 m"): no named point, left out
+San Marino: Monte Titano has elevations [739.0, 756.0]; the highest used
+Slovakia: Gerlachovský štít has elevations [2654.4, 2655.0]; the highest used
+Vietnam: Fansipan has elevations [3143.0, 3147.3]; the highest used
+Western Sahara: Wikidata []; left out
+
+## highest point (m): 194 of 198 countries have it
+
+## government: 197 of 198 countries have it
+Cook Islands in the article is not one of the 198
+Niue in the article is not one of the 198
+Somaliland in the article is not one of the 198
+Abkhazia in the article is not one of the 198
+South Ossetia in the article is not one of the 198
+Transnistria in the article is not one of the 198
+Northern Cyprus in the article is not one of the 198
+Sahrawi Arab Democratic Republic in the article is not one of the 198
+Western Sahara: not in the article
+
+## demonym: 198 of 198 countries have it
+Brunei: mledoze Bruneian, Wikidata [], Wikipedia 'Bruneian'; Bruneian used
+Cabo Verde: mledoze Cape Verdian, Wikidata ['Cabo Verdean', 'Cape Verdean'], Wikipedia 'Cape Verdean or Cabo Verdean'; Cape Verdean used
+Djibouti: mledoze Djibouti, Wikidata ['Djiboutian'], Wikipedia 'Djiboutian'; Djiboutian used
+Ecuador: mledoze Ecuadorean, Wikidata ['Ecuadoran', 'Ecuadorian'], Wikipedia 'Ecuadorian'; Ecuadorian used
+Kyrgyzstan: mledoze Kirghiz, Wikidata ['Kyrgyz', 'Kyrgyzstani'], Wikipedia 'Kyrgyz • Kyrgyzstani'; Kyrgyz used
+Maldives: mledoze Maldivan, Wikidata ['Maldivian'], Wikipedia 'Maldivian'; Maldivian used
+Suriname: mledoze Surinamer, Wikidata ['Surinamese'], Wikipedia 'Surinamese'; Surinamese used
+Tajikistan: mledoze Tadzhik, Wikidata ['Tajikistani'], Wikipedia '{{hlist|Tajikistani|Tajik}}'; Tajikistani used
+Western Sahara: mledoze Sahrawi, Wikidata [], Wikipedia ''; Sahrawi used
+
+## GDP per person: 189 of 198 countries have it
+years of the figures: {'2022': 1, '2023': 1, '2024': 6, '2025': 181}
+Cuba: the latest is from 2020; left out
+Eritrea: the latest is from 2011; left out
+Kosovo: none
+North Korea: none
+South Sudan: the latest is from 2015; left out
+Taiwan: none
+Vatican: none
+Western Sahara: none
+Yemen: the latest is from 2018; left out
+
+## life expectancy: 194 of 198 countries have it
+years of the figures: {'2024': 194}
+Kosovo: none
+Taiwan: none
+Vatican: none
+Western Sahara: none

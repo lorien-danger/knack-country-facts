@@ -59,7 +59,7 @@ SELECT ?c ?v ?vLabel ?rank ?start ?end ?coord ?elev ?elevUnit ?lang WHERE {{
   OPTIONAL {{ ?v wdt:P625 ?coord }}
   OPTIONAL {{ ?v p:P2044/psv:P2044 [ wikibase:quantityAmount ?elev ; wikibase:quantityUnit ?elevUnit ] }}
   BIND(LANG(?v) AS ?lang)
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en,mul". }}
 }}''')
 
 def infobox(text):
@@ -88,7 +88,7 @@ if __name__ == '__main__':
         qs = iso.get(c['id'], [])
         qid[c['id']] = ITEM.get(c['id']) or (qs[0] if len(qs) == 1 else None)
         if not qid[c['id']]: print('NO ITEM', c, qs, file=sys.stderr)
-    labels = {b['c']: b['cLabel'] for b in sparql('SELECT ?c ?cLabel WHERE { VALUES ?c { %s } SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } }' % ' '.join('wd:' + q for q in qid.values()))}
+    labels = {b['c']: b['cLabel'] for b in sparql('SELECT ?c ?cLabel WHERE { VALUES ?c { %s } SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". } }' % ' '.join('wd:' + q for q in qid.values()))}
     props = {}
     for p in PROPS:
         props[p] = [b for b in statements(list(qid.values()), p) if b.get('lang') in (None, '', 'en')]

@@ -1,0 +1,10 @@
+# Capitals where Wikidata's current capital needs a choice. capital: ; between several. seat: the one whose place is
+# given in "capital place" (the seat of government).
+id	capital	seat	why
+eh			Western Sahara is disputed (Morocco administers most of it; the Sahrawi Republic claims it): Wikidata gives its item no capital, and none is given here
+bo	La Paz;Sucre	La Paz	Sucre is the constitutional capital and La Paz the seat of government (Wikidata gives both; Wikipedia infobox: "Sucre (constitutional and judicial), La Paz (executive and legislative)")
+za	Pretoria;Cape Town;Bloemfontein	Pretoria	three capitals, executive (Pretoria), legislative (Cape Town) and judicial (Bloemfontein): Wikidata, mledoze and Wikipedia agree
+sz	Mbabane;Lobamba	Mbabane	Mbabane is the administrative capital and Lobamba the royal and legislative one (Wikidata gives both; Wikipedia agrees)
+lk	Sri Jayawardenepura Kotte;Colombo	Sri Jayawardenepura Kotte	Sri Jayawardenepura Kotte is the legislative capital and Colombo the executive and judicial one (Wikidata gives both; Wikipedia agrees). The two are next to each other
+ye	Sanaa;Aden	Sanaa	Sanaa is the capital by the constitution, held by the Houthis since 2014; Aden is the internationally recognised government's temporary capital (Wikidata gives both; Wikipedia agrees)
+ps	Ramallah;East Jerusalem	Ramallah	East Jerusalem is the proclaimed capital, Ramallah where the government sits (Wikidata gives both; Wikipedia agrees)

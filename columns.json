@@ -1,0 +1,72 @@
+{
+ "name": "Country facts",
+ "item": "country",
+ "items": "countries",
+ "title": "name",
+ "columns": [
+  {
+   "name": "name",
+   "type": "plain"
+  },
+  {
+   "name": "capital",
+   "type": "plain"
+  },
+  {
+   "name": "capital place",
+   "type": "plain"
+  },
+  {
+   "name": "languages",
+   "type": "plain"
+  },
+  {
+   "name": "currency",
+   "type": "plain"
+  },
+  {
+   "name": "neighbours",
+   "type": "plain"
+  },
+  {
+   "name": "landlocked",
+   "type": "plain"
+  },
+  {
+   "name": "drives on",
+   "type": "plain"
+  },
+  {
+   "name": "calling code",
+   "type": "plain"
+  },
+  {
+   "name": "internet domain",
+   "type": "plain"
+  },
+  {
+   "name": "highest point",
+   "type": "plain"
+  },
+  {
+   "name": "highest point (m)",
+   "type": "plain"
+  },
+  {
+   "name": "government",
+   "type": "plain"
+  },
+  {
+   "name": "demonym",
+   "type": "plain"
+  },
+  {
+   "name": "GDP per person",
+   "type": "plain"
+  },
+  {
+   "name": "life expectancy",
+   "type": "plain"
+  }
+ ]
+}
