@@ -117,7 +117,7 @@ Japan: Wikidata ['yen'], mledoze ['Japanese yen']; ['Japanese yen'] used
 Kyrgyzstan: Wikidata ['Kyrgyz som'], mledoze ['Kyrgyzstani som']; ['Kyrgyzstani som'] used
 Lesotho: Wikidata ['rand', 'loti'], mledoze ['Lesotho loti', 'South African rand']; ['Lesotho loti', 'South African rand'] used
 Madagascar: Wikidata ['ariary'], mledoze ['Malagasy ariary']; ['Malagasy ariary'] used
-Marshall Islands: Wikidata ['SOV', 'United States dollar'], mledoze ['United States dollar']; ['United States dollar'] used
+Marshall Islands: Wikidata ['United States dollar', 'SOV'], mledoze ['United States dollar']; ['United States dollar'] used
 Mexico: Wikidata ['peso'], mledoze ['Mexican peso']; ['Mexican peso'] used
 Micronesia: Wikidata ['United States dollar'], mledoze []: ['United States dollar'] — Wikidata and Wikipedia (mledoze gives none)
 Myanmar: Wikidata ['kyat'], mledoze ['Burmese kyat']; ['Burmese kyat'] used
@@ -138,7 +138,7 @@ Uzbekistan: Wikidata ['Uzbek som'], mledoze ['Uzbekistani soʻm']; ['Uzbekistani
 Vanuatu: Wikidata ['Vanuatu vatus'], mledoze ['Vanuatu vatu']; ['Vanuatu vatu'] used
 Venezuela: Wikidata ['sovereign bolivar'], mledoze ['Venezuelan bolívar soberano']; ['Venezuelan bolívar soberano'] used
 Western Sahara: Wikidata ['Moroccan dirham', 'الدراهم المغربي'], mledoze ['Algerian dinar', 'Moroccan dirham', 'Mauritanian ouguiya']: ['Moroccan dirham'] — Wikidata (mledoze adds the Algerian dinar and the Mauritanian ouguiya, used in the parts Morocco does not hold)
-Zimbabwe: Wikidata ['Indian rupee', 'rand', 'Zimbabwean dollar', 'Australian dollar', 'Zimbabwe ZiG', 'euro', 'United States dollar', 'yen', 'pound sterling', 'renminbi'], mledoze ['Botswana pula', 'Chinese yuan', 'Euro', 'British pound', 'Indian rupee', 'Japanese yen', 'United States dollar', 'South African rand', 'Zimbabwe Gold']: ['Zimbabwe Gold', 'United States dollar', 'South African rand'] — the Wikipedia infobox: Zimbabwe Gold by law, the US dollar and the rand in practice (mledoze and Wikidata also list the other currencies of the 2014 multi-currency system)
+Zimbabwe: Wikidata ['Indian rupee', 'rand', 'Zimbabwean dollar', 'Australian dollar', 'United States dollar', 'yen', 'pound sterling', 'renminbi', 'Zimbabwe ZiG', 'euro'], mledoze ['Botswana pula', 'Chinese yuan', 'Euro', 'British pound', 'Indian rupee', 'Japanese yen', 'United States dollar', 'South African rand', 'Zimbabwe Gold']: ['Zimbabwe Gold', 'United States dollar', 'South African rand'] — the Wikipedia infobox: Zimbabwe Gold by law, the US dollar and the rand in practice (mledoze and Wikidata also list the other currencies of the 2014 multi-currency system)
 
 ## neighbours: 159 of 198 countries have it
 Brazil: border with GUF left out (not one of the 198)
@@ -174,21 +174,71 @@ Western Sahara: +212; Wikipedia infobox ''
 Kosovo: Wikidata [], mledoze ['.xk']; mledoze used
 Western Sahara: Wikidata [], mledoze ['.eh']; mledoze used
 
-## highest point: 194 of 198 countries have it
+## highest point: 188 of 198 countries have it
 Algeria: Mount Tahat has elevations [2908.0, 2918.0]; the highest used
+Australia: Wikidata ['Mawson Peak']: Mount Kosciuszko 2228 — Wikidata gives Mawson Peak (2745 m) on Heard Island, an external territory far in the Southern Ocean; Wikipedia's list and the usual answer are Mount Kosciuszko, the highest on the continent
 Azerbaijan: Mount Bazardüzü has elevations [2706.0, 4466.0]; the highest used
+Bangladesh: Wikidata ['Mowdok tiang']: (none)  — Wikidata gives Mowdok Tiang (1054 m), Wikipedia's list Saka Haphong (1063 m): the sources disagree, left out
 Colombia: Wikidata ['Pico Simón Bolívar', 'Pico Cristóbal Colón']: (none)  — Wikidata gives two peaks of the Sierra Nevada de Santa Marta, Pico Cristóbal Colón and Pico Simón Bolívar, whose heights have not been told apart by survey (Wikipedia): left out
 Egypt: Mount Catherine has elevations [2629.0, 2637.0]; the highest used
 Eritrea: Emba Soira has elevations [3013.0, 3018.0]; the highest used
+Finland: Wikidata ['Halti']: Halti 1324 — Halti's summit (1361 m, Wikidata's height) is in Norway; Finland's highest point is on its slope at 1324 m (Wikipedia's list)
 Gambia: Wikidata []; left out
+Ghana: Wikidata ['Mount Afadja']: (none)  — Wikidata gives Mount Afadja (885 m), Wikipedia's list Leklata (900 m): the sources disagree, left out
+Guinea-Bissau: Wikidata ['Monte Torin']: (none)  — Wikidata gives Monte Torin (262 m), Wikipedia's list Dongol Rondè (266 m): the sources disagree, left out
+Guyana: Wikidata ['Mount Roraima']: Mount Roraima 2772 — Roraima's summit (2810 m, Wikidata's height) is not in Guyana; Guyana's highest point on it is 2772 m (Wikipedia's list)
 Iran: Damavand has elevations [5610.0, 5628.0]; the highest used
+Kuwait: Wikidata ['Mutla Ridge']: (none)  — Wikidata gives Mutla Ridge (140 m), Wikipedia's list an unnamed place in the far west (291 m): left out
 Maldives: Wikidata ['Addu City', 'Villingili']: (none)  — the highest ground is an unnamed spot on Villingili (Wikidata gives Villingili and Addu City, Wikipedia "an unnamed location on Villingili, 5.1 m"): no named point, left out
+Micronesia: Wikidata ['Dolohmwar']: (none)  — Wikidata gives Dolohmwar (791 m), Wikipedia's list Nanlaud (782 m): the sources disagree, left out
 San Marino: Monte Titano has elevations [739.0, 756.0]; the highest used
+Senegal: Wikidata ['Népin Cliff']: (none)  — Wikidata gives the Népin cliff (531 m), Wikipedia's list Felo Barkere (638 m): the sources disagree, left out
+Serbia: Wikidata ['Velika Rudoka']: Midžor 2169 — Wikidata gives Velika Rudoka (2658 m), which is in Kosovo; Kosovo is its own row here, so Serbia's is Midžor, as Wikipedia's list of elevation extremes gives it
 Slovakia: Gerlachovský štít has elevations [2654.4, 2655.0]; the highest used
+Tanzania: Wikidata ['Mount Kibo']: Kilimanjaro 5895 — Wikidata names Kibo, the summit cone of Kilimanjaro (5895 m); Wikipedia's list and the usual name are Kilimanjaro
+United Arab Emirates: Wikidata ['Jebel Jais']: Jebel Jais 1892 — Jebel Jais's summit is in Oman; the UAE's highest point on it is 1892 m (Wikipedia's list; Wikidata 1911)
 Vietnam: Fansipan has elevations [3143.0, 3147.3]; the highest used
 Western Sahara: Wikidata []; left out
+Antigua and Barbuda: Mount Obama 402 m; Wikipedia's list: Boggy Peak on Antigua 402 m
+Belarus: Dziaržynkaja hara 345 m; Wikipedia's list: Dzyarzhynskaya Hara 345 m
+Brunei: Bukit Pagon 1850 m; Wikipedia's list: Bukit Pagon 1875 m
+Cameroon: Mount Cameroon 4095 m; Wikipedia's list: Mount Cameroon 4040 m
+China: not in Wikipedia's list
+East Timor: Tatamailau 2963 m; Wikipedia's list: Mount Ramelau on Timor 2963 m
+Guinea: Mount Richard-Molard 1752 m; Wikipedia's list: Mont Nimba (Mount Richard-Molard) 1752 m
+Haiti: Peak la Selle 2674 m; Wikipedia's list: Pic la Selle 2680 m
+India: Kanchenjunga 8586 m; Wikipedia's list: Kangchenjunga 8586 m
+Israel: Meron 1208 m; Wikipedia's list: Mount Meron (''de jure''; inside the Green Line) Mount Hermon (''de facto''; in the Golan Heights) 1204 m
+Ivory Coast: Mount Richard-Molard 1752 m; Wikipedia's list: Mont Nimba (Mount Richard-Molard) 1752 m
+Kiribati: Banaba Island 81 m; Wikipedia's list: Unnamed location on Banaba 81 m
+Kosovo: not in Wikipedia's list
+Malawi: Mulanje Massif 3002 m; Wikipedia's list: Mount Mulanje 3002 m
+Malaysia: Mount Kinabalu 4095 m; Wikipedia's list: Gunung Kinabalu on Borneo 4095.2 m
+Malta: Ta' Dmejrek 253 m; Wikipedia's list: Ta'Dmejrek on Malta Island 253 m
+Marshall Islands: Likiep Atoll 10 m; Wikipedia's list: Unnamed location on Likiep 10 m
+Mexico: Citlaltepetl 5636 m; Wikipedia's list: Volcán Citlaltépetl (Pico de Orizaba) 5636 m
+Monaco: Chemin des Révoires 162 m; Wikipedia's list: along Chemin des Révoires on Mont Agel 162 m
+Mongolia: Hüiten Peak 4374 m; Wikipedia's list: Khüiten Peak 4356 m
+Morocco: not in Wikipedia's list
+Myanmar: not in Wikipedia's list
+Namibia: Brandberg 2573 m; Wikipedia's list: Königstein 2573 m
+Nauru: Command Ridge 71 m; Wikipedia's list: Command Ridge 65 m
+Nicaragua: Cerro Mogotón 2107 m; Wikipedia's list: Mogotón 2085 m
+North Korea: Baekdu Mountain 2744 m; Wikipedia's list: Paektu-san 2744 m
+North Macedonia: Korab 2764 m; Wikipedia's list: Golem Korab 2764 m
+Oman: Jebel Shams 3018 m; Wikipedia's list: Jabal Shams 3018 m
+Portugal: Mount Pico 2351 m; Wikipedia's list: Montanha do Pico on Pico Island 2351 m
+Saint Kitts and Nevis: not in Wikipedia's list
+Saint Vincent and the Grenadines: La Soufrière 1220 m; Wikipedia's list: La Soufrière 1235 m
+Samoa: Silisili 1858 m; Wikipedia's list: Mauga Silisili on Savai'i 1858 m
+San Marino: Monte Titano 756 m; Wikipedia's list: Monte Titano 739 m
+Sudan: not in Wikipedia's list
+Syria: Mount Hermon 2814 m; Wikipedia's list: Jabal el-Sheikh (Mount Hermon) 2814 m
+Taiwan: not in Wikipedia's list
+Togo: not in Wikipedia's list
+Tuvalu: Niulakita 5 m; Wikipedia's list: Unnamed location on Niulakita 4.5 m
 
-## highest point (m): 194 of 198 countries have it
+## highest point (m): 188 of 198 countries have it
 
 ## government: 197 of 198 countries have it
 Cook Islands in the article is not one of the 198

@@ -15,6 +15,8 @@ exactly what it read). Run it again to take newer versions; the date is written 
   third source where the others disagree (official languages, capitals) and for checking.
 - worldbank.json: the World Bank's World Development Indicators (CC BY 4.0), each country's most recent GDP per
   person and life expectancy, with the year.
+- elevation.json: the English Wikipedia article "List of elevation extremes by country" (CC BY-SA 4.0), to check
+  the highest points.
 - government.json: the English Wikipedia article "List of countries by system of government" (CC BY-SA 4.0), its
   wikitext and revision id, for the form of government.
 """
@@ -107,7 +109,8 @@ if __name__ == '__main__':
         wb[ind] = [{'iso3': r['countryiso3code'], 'name': r['country']['value'], 'year': r['date'], 'value': r['value']}
                    for r in j[1] if r['value'] is not None]
     json.dump(wb, open(OUT / 'worldbank.json', 'w'), indent=0)
-    for page, file in [('List of countries by system of government', 'government.json')]:
+    for page, file in [('List of countries by system of government', 'government.json'),
+                       ('List of elevation extremes by country', 'elevation.json')]:
         j = json.loads(get('https://en.wikipedia.org/w/api.php?' + urllib.parse.urlencode({
             'action': 'parse', 'page': page, 'prop': 'wikitext|revid', 'format': 'json', 'formatversion': 2})))
         json.dump({'page': page, 'revid': j['parse']['revid'], 'wikitext': j['parse']['wikitext']},

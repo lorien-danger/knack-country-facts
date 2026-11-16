@@ -242,6 +242,19 @@ for c in names:
     rows[c]['highest point'] = label(s)
     rows[c]['highest point (m)'] = round(max(pref))
 
+# Wikipedia's list of elevation extremes, to check: where its point or height differs (by more than 1%), say so
+ext = {}
+for rec in json.load(open(SRC / 'elevation.json'))['wikitext'].split('\n|-'):
+    m = re.search(r'^\s*[^\n]*\n\|\{\{([A-Z]{3})\}\}\s*\n\|(.*?)\{\{epi/moft\|(-?[\d.]+)', rec, re.S)
+    if m and m.group(1) in cca3: ext[cca3[m.group(1)]] = (plain_text(m.group(2)), float(m.group(3)))
+for c in names:
+    r = rows[c]
+    if 'highest point' not in r or c in top_over: continue
+    if c not in ext: checks['highest point'].append(f"{names[c]}: not in Wikipedia's list"); continue
+    n, h = ext[c]
+    if abs(h - r['highest point (m)']) > max(5, 0.01 * h) or n.split()[0].lower()[:4] not in r['highest point'].lower():
+        checks['highest point'].append(f"{names[c]}: {r['highest point']} {r['highest point (m)']} m; Wikipedia's list: {n} {h:g} m")
+
 # --- form of government -----------------------------------------------------------------------------------------
 GOV_ALIAS = {'Czech Republic': 'Czechia', 'Georgia (country)': 'Georgia', 'Cape Verde': 'Cabo Verde',
              'Timor-Leste': 'East Timor', 'Federated States of Micronesia': 'Micronesia', 'Vatican City': 'Vatican',
